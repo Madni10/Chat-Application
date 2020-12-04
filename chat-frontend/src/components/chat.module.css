@@ -1,0 +1,113 @@
+.LoginBox{
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(87, 88, 87);
+    padding: 70px;
+    border-radius: 5px;
+    box-shadow:0 2px 5px #ccc;
+}
+
+.ChatBox{
+    margin: auto;
+    width: 70%;
+    border: 3px solid rgb(87, 88, 87);
+    padding: 70px;
+    border-radius: 5px;
+    box-shadow:0 2px 5px #ccc;
+}
+
+.card {
+    padding: 10px 0 10px 0;
+}
+
+.LoginBox > button {
+    border-radius: 8px;
+    width: 160px;
+    height: 60px;
+    margin: 20px;
+    background-color: #4CAF50;
+    text-align: center;
+    color: white;
+}
+
+.Samebutton {
+    border-radius: 8px;
+    width: 160px;
+    height: 60px;
+    margin: 20px;
+    background-color: #4CAF50;
+    text-align: center;
+    color: white;
+}
+
+.Addbutton {
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    background-color: lightskyblue;
+    text-align: center;
+    color: white;
+}
+
+.Logoutbutton {
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+.Sendbutton {
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    background-color: lightgreen;
+    text-align: center;
+    color: white;
+}
+
+
+.LoginBox > input {
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+
+.container{
+    flex: 70%;  
+    position: relative; 
+    padding: 70px;
+    margin: auto;
+    height: auto;
+   }
+
+.left{
+        flex: 30%; 
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+        background-color: lightgray;
+    border: 3px solid rgb(87, 88, 87);
+
+    }
+
+.middle{
+        width: 40%; 
+        margin: 0 auto; 
+    }
+
+    /* .right{
+        width: 33.3%; 
+        height: 50px;  
+        position: fixed;
+        right: 0;
+        top: 0;
+        background-color: green;
+    } */
