@@ -27,7 +27,6 @@ const Register = () => {
             ...state,
             [name]:value
         });
-       // dataChange(prevState=>({...prevState, [e.target.name] : e.target.value }));
     }
 
     var user = {
