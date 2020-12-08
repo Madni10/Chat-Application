@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\webAPI\\webAPI\\webAPI.csproj": {}
+    "D:\\ChatApplication Using SignalR\\webAPI\\webAPI\\webAPI.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\webAPI\\webAPI\\webAPI.csproj": {
+    "D:\\ChatApplication Using SignalR\\webAPI\\webAPI\\webAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\webAPI\\webAPI\\webAPI.csproj",
+        "projectUniqueName": "D:\\ChatApplication Using SignalR\\webAPI\\webAPI\\webAPI.csproj",
         "projectName": "webAPI",
-        "projectPath": "D:\\New folder\\webAPI\\webAPI\\webAPI.csproj",
+        "projectPath": "D:\\ChatApplication Using SignalR\\webAPI\\webAPI\\webAPI.csproj",
         "packagesPath": "C:\\Users\\AhmedMadni\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\webAPI\\webAPI\\obj\\",
+        "outputPath": "D:\\ChatApplication Using SignalR\\webAPI\\webAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AhmedMadni\\AppData\\Roaming\\NuGet\\NuGet.Config",

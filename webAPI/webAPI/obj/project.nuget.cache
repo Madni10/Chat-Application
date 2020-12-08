@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bJxhxbvsu21k6dBXSXPKlH3zvaqt37gBAVUJDwR+GgPaU7JD2ORba7Fqd+3NroBQ2GumDARaPeEEU3wVzZA0Q==",
+  "dgSpecHash": "QZp0MkymOp5oQylDYguecTU/yic2nukB8OAQYiZLhVzpNJvmzkZLz2IZbktV9cq7sMwPI+cSiaE7LdKzK7Bygg==",
   "success": true,
-  "projectFilePath": "D:\\New folder\\webAPI\\webAPI\\webAPI.csproj",
+  "projectFilePath": "D:\\ChatApplication Using SignalR\\webAPI\\webAPI\\webAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AhmedMadni\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",
     "C:\\Users\\AhmedMadni\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.0\\microsoft.aspnetcore.connections.abstractions.3.1.0.nupkg.sha512",
